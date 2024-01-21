@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **Web Development, Python, Machine Learning**
 
-- 📫 How to reach me **rajkumargupta.nit661@gmail.com**
+- 📫 How to reach me [[Contacts](rajkumargupta.nit661@gmail.com)]
 
-- 📄 Know about my experiences [[https://drive.google.com/drive/folders/1A5lN_srSAvyqvjcqQCOIkxNfPOHvcXqp?usp=sharing](https://flowcv.com/resume/ldeow23gte)](https://drive.google.com/drive/folders/1A5lN_srSAvyqvjcqQCOIkxNfPOHvcXqp?usp=sharing)
+- 📄 Know about my experiences [[View Resume](https://flowcv.com/resume/ldeow23gte)]
 
 - ⚡ Fun fact **I am Funny.**
 
