@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajkumar Gupta</h1>
-- 🔭 I’m currently working on <b>TravelHelp WebApplication</b>
+
 
 - 🌱 I’m currently learning **Full Stack Development, Deep Learning**
 
