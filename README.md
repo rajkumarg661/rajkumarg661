@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development, Deep Learning**
 
-- 💬 Ask me about **Web Development, Python, Machine Learning**
+- 💬 Ask me about **Web Development, Python Software Development, Machine Learning**
 
 - 📫 How to reach me [[Contacts](rajkumargupta.nit661@gmail.com)]
 
